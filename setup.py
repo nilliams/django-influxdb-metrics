@@ -48,7 +48,7 @@ def read(fname):
         return ''
 
 setup(
-    name="django-influxdb-metrics",
+    name="hive-django-influxdb-metrics",
     version=app.__version__,
     description=read('DESCRIPTION'),
     long_description=read('README.rst'),
